@@ -1,0 +1,3 @@
+NET "out"    LOC = R11;
+NET "reset"     LOC = B8;
+NET "clk"       LOC = V10;

@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "unisims_ver" -lib "unimacro_ver" -lib "xilinxcorelib_ver" -lib "secureip" -o "/home/student/Downloads/lab06_skel/subtractor_8bit_test_isim_beh.exe" -prj "/home/student/Downloads/lab06_skel/subtractor_8bit_test_beh.prj" "work.subtractor_8bit_test" "work.glbl" 

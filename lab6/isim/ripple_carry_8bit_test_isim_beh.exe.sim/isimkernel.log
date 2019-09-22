@@ -1,0 +1,29 @@
+Command line:
+   ripple_carry_8bit_test_isim_beh.exe
+     -simmode  gui
+     -simrunnum  1
+     -socket  43037
+
+Mon Apr  1 18:57:56 2019
+
+
+ Elaboration Time: 0.02 sec
+
+ Current Memory Usage: 196.825 Meg
+
+ Total Signals          : 155
+ Total Nets             : 71
+ Total Signal Drivers   : 49
+ Total Blocks           : 27
+ Total Primitive Blocks : 17
+ Total Processes        : 51
+ Total Traceable Variables  : 21
+ Total Scalar Nets and Variables : 168
+Total Line Count : 25
+
+ Total Simulation Time: 0.06 sec
+
+ Current Memory Usage: 272.327 Meg
+
+Mon Apr  1 19:05:53 2019
+

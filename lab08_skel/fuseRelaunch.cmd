@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "unisims_ver" -lib "unimacro_ver" -lib "xilinxcorelib_ver" -lib "secureip" -o "/home/student/Desktop/lab08_skel/multiplier_test_isim_beh.exe" -prj "/home/student/Desktop/lab08_skel/multiplier_test_beh.prj" "work.multiplier_test" "work.glbl" 

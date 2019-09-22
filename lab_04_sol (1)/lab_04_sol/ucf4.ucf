@@ -1,0 +1,8 @@
+NET "mutant"        LOC = U16;
+NET "super_mutant"  LOC = V16;
+NET "A"             LOC = C4;
+NET "G"             LOC = D9;
+NET "C"             LOC = A8;
+NET "T"             LOC = C9;
+NET "reset"         LOC = B8;
+NET "clk"           LOC = V10;

@@ -1,0 +1,6 @@
+verilog work "half_adder_structural.v"
+verilog work "full_adder.v"
+verilog work "ripple_carry_8bit.v"
+verilog work "subtractor_8bit.v"
+verilog work "subtractor_8bit_test.v"
+verilog work "/opt/Xilinx/14.7/ISE_DS/ISE//verilog/src/glbl.v"

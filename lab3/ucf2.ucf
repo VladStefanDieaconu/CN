@@ -1,0 +1,6 @@
+NET "i1"        LOC = T5;
+NET "i2"           LOC = V8;
+NET "sel1"        LOC = U8;
+NET "sel2"        LOC = N8;
+NET "o1"        LOC = U16;
+NET "o2"        LOC = V16;
